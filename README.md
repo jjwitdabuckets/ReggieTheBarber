@@ -1,6 +1,6 @@
-# Tshepo the Barber | MACDEEZY - Website
+# Reggie The Barber | MACDEEZY - Website
 
-A modern, fully-responsive single-page website for **Tshepo the Barber**, a skilled barber based in Pietermaritzburg, South Africa. The site showcases his services, portfolio, and exclusive MACDEEZY merchandise line, while providing clients with an intuitive booking interface.
+A modern, fully-responsive single-page website for **Reggie The Barber**, a skilled barber based in Pietermaritzburg, South Africa. The site showcases his services, portfolio, and exclusive MACDEEZY merchandise line, while providing clients with an intuitive booking interface.
 
 ## 📋 Project Status
 
@@ -57,11 +57,11 @@ Dev Nkosi
 
 ## 📞 Contact
 
-**Tshepo the Barber**  
+**Reggie The Barber**  
 📍 15 Gallway Rd, Pietermaritzburg, South Africa  
 📞 +27 622 039 139  
 📧 [tshepobarber@gmail.com](mailto:tshepobarber@gmail.com)  
 📷 [Instagram](https://www.instagram.com/reggie_the_barber180/)
 
 
-**© 2025 Tshepo the Barber | MACDEEZY. All Rights Reserved.**
+**© 2025 Reggie The Barber | MACDEEZY. All Rights Reserved.**
