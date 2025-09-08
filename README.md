@@ -36,12 +36,12 @@ The design uses a custom color scheme defined in CSS variables for easy theming:
 
 | Variable | Color | Usage |
 | :--- | :--- | :--- |
-| `--black` | `#000000` | Primary text, headers, footer |
-| `--white` | `#FFFFFF` | Backgrounds, text contrast |
-| `--green` | `#4B8B3B` | **Primary accent** (buttons, highlights, links) |
-| `--light-green` | `#e8f4e4` | Background for booking section |
-| `--gray` | `#333333` | Secondary text, social icons |
-| `--light-gray` | `#f5f5f5` | Background for services section |
+| `black` | `#000000` | Primary text, headers, footer |
+| `white` | `#FFFFFF` | Backgrounds, text contrast |
+| `green` | `#4B8B3B` | **Primary accent** (buttons, highlights, links) |
+| `light-green` | `#e8f4e4` | Background for booking section |
+| `gray` | `#333333` | Secondary text, social icons |
+| `light-gray` | `#f5f5f5` | Background for services section |
 
 ## 🚀 Getting Started (For Development)
 
